@@ -1,7 +1,7 @@
 {
-  "library": "WilkinsonAudio.NakedDrums",
+  "library": "naked-drums",
   "format": "opus-48k",
-  "sourceRepo": "https://github.com/zulfikarbarbora-outl/WilkinsonAudio.NakedDrums",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/naked-drums",
   "previewRepo": "https://github.com/zulfikarbarbora-outl/naked-drums-opus-48",
   "branch": "master",
   "fileCount": 3830,
