@@ -1,6 +1,6 @@
 # naked-drums-opus-48
 
-Opus 48 kbps preview MP3s for the **WilkinsonAudio.NakedDrums** sample library.
+Opus 48 kbps preview MP3s for the **naked-drums** sample library.
 
 ## About
 
@@ -10,7 +10,7 @@ Opus at 48k delivers near-CD quality at ~35% the size of MP3 128k.
 - **Files**: 3830 Opus previews
 - **Bitrate**: 48 kbps VBR
 - **Container**: Ogg Opus (.opus)
-- **Source**: [`zulfikarbarbora-outl/WilkinsonAudio.NakedDrums`](https://github.com/zulfikarbarbora-outl/WilkinsonAudio.NakedDrums)
+- **Source**: [`zulfikarbarbora-outl/naked-drums`](https://github.com/zulfikarbarbora-outl/naked-drums)
 - **Branch**: `master`
 
 ## URL pattern
